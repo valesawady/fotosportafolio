@@ -13,7 +13,8 @@ Fotos Visual
 Fliegtravel
 ![fliegsi](https://github.com/user-attachments/assets/65525e3f-3099-4fe8-abd2-d78860d86c3b)
 Ova
-![portada ova](https://github.com/user-attachments/assets/55623051-3ada-4596-a110-fca7dc08099e)
+![portada ova](https://github.com/user-attachments/assets/d9c2ccbd-82a2-4fac-b29b-12dd12a33e9b)
+
 Contruyendo Chile
 ![Construyendo Chile](https://github.com/user-attachments/assets/710c9714-4d1f-4843-856e-e1b4f1770f90)
 Datos a la vista
