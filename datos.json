@@ -24,6 +24,7 @@
     },
     {
         "nombre": "Fliegtravel",
+        "descripcion": "Creé el branding y la identidad de Fliegtravel, una marca que transforma la elegancia y la innovación en experiencias de viaje inolvidables. El diseño refleja la sofisticación y exclusividad que caracteriza a la marca, utilizando una paleta de colores en blanco y negro que evoca simplicidad y profesionalismo. El logotipo transmite un sentido de lujo y aventura, asegurando que cada elemento de la marca refleje la experiencia única y personalizada que se ofrece.",        
         "fecha": "2024",
         "signo": "Visual",
         "foto": "https://github.com/user-attachments/assets/65525e3f-3099-4fe8-abd2-d78860d86c3b",
@@ -31,6 +32,7 @@
     },
     {
         "nombre": "Vacurve",
+        "descripcion": "Inspirada en los diseños multifuncionales y futuristas de Joe Colombo, VACURVE destaca por su estética curva y modular. Su mango desmontable funciona como una base, maximizando la eficiencia del espacio y demostrando la versatilidad del diseño. La maqueta a escala, elaborada en madera, captura la ergonomía y funcionalidad del producto, reflejando la fusión entre estilo y practicidad.",
         "fecha": "2022",
         "signo": "Industrial",
         "foto": "https://github.com/user-attachments/assets/4ab5c9cb-526d-4b65-bf94-adfb54b48b05",
@@ -38,6 +40,7 @@
     },
     {
         "nombre": "Kitu",
+        "descripcion": "En colaboración con Balloon Latam y un equipo de diseño, documentamos el proyecto en la región del Maule, donde trabajamos con comunidades rurales para fomentar el emprendimiento y el desarrollo local. A través de actividades de co-diseño y herramientas como el mapeo territorial, identificamos oportunidades y necesidades locales. Presentamos Kitu, un kit de herramientas diseñado para facilitar la planificación y ejecución de proyectos, con el fin de impulsar la conservación y el turismo agroambiental en la región.",       
         "fecha": "2023",
         "signo": "Servicio",
         "foto": "https://github.com/user-attachments/assets/0b53466a-0d29-4e6d-af9d-76f7a0dd1333",
