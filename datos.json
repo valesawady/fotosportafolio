@@ -48,6 +48,7 @@
     },
     {
         "nombre": "Picnic 4queLate",
+        "descripcion": "En colaboración con Josefina Rojas, Francisca Valenzuela y Antonia Widmer, diseñamos 4 que late, un picnic inspirado en el amor y la amistad, enfocado en crear y fortalecer vínculos personales de manera sustentable. El proyecto, orientado a citas dobles, combina conexión, naturaleza y diversión. Utilizamos un diseño circular, con logotipo central y elementos organizados en contenedores de cartón, cortados con láser para equilibrar funcionalidad y estética.",
         "fecha": "2022",
         "signo": "Industrial",
         "foto": "https://github.com/user-attachments/assets/73f7ef1f-5d8d-4850-830d-65c168e53178",
@@ -55,6 +56,7 @@
     },
     {
         "nombre": "Construyendo Chile",
+        "descripcion": "En colaboración con Teresita Gutiérrez, Trinidad Jerez, Cristina Miranda y Francisca Valenzuela, creamos el afiche Construyendo Chile, una representación visual que celebra la diversidad y el aporte multicultural en la construcción de nuestro país. Inspirado en el icónico personaje Condorito, nuestro afiche muestra a condoritos de diversas nacionalidades, cada uno representando una cultura distinta.",
         "fecha": "2022",
         "signo": "Visual",
         "foto": "https://github.com/user-attachments/assets/710c9714-4d1f-4843-856e-e1b4f1770f90",
@@ -62,6 +64,7 @@
     },
     {
         "nombre": "Datos a la vista",
+        "descripcion": "Creado en colaboración con Paula Claros, Josefina Rojas, Francisca Valenzuela, Josefina Santibáñez, Manuela Münchmeyer y Sol Richards, este afiche, inspirado en las ideas de José Duarte, presenta una visualización de datos tanto en formato digital como análogo. El diseño busca hacer los datos más accesibles y comprensibles, promoviendo la democratización de la información y su relevancia en la comprensión del entorno.",
         "fecha": "2024",
         "signo": "Visual",
         "foto": "https://github.com/user-attachments/assets/542045aa-2c64-4bae-9b64-41a9bf80e761",
@@ -69,6 +72,7 @@
     },
     {
         "nombre": "Equita",
+        "descripcion": "En colaboración con Teresita Gutiérrez, Trinidad Jerez, Cristina Miranda y Francisca Valenzuela, creamos el afiche Construyendo Chile, una representación visual que celebra la diversidad y el aporte multicultural en la construcción de nuestro país. Inspirado en el icónico personaje Condorito, nuestro afiche muestra a condoritos de diversas nacionalidades, cada uno representando una cultura distinta.",
         "fecha": "2024",
         "signo": "Servicio",
         "foto": "https://github.com/user-attachments/assets/d81320b4-a089-483f-a78e-2d7dd4322f0d",
